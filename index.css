@@ -1,0 +1,23 @@
+h1{
+  background-color:blueviolet;
+  margin: 20px;
+  border: 5px solid purple;
+  border-radius: 15px;
+}
+
+h2{
+  background-color: blueviolet;
+  border: 5px solid purple;
+  border-radius: 15px;
+}
+
+p{
+  background-color:skyblue;
+  border: 5px solid blue;
+  border-radius: 15px;
+
+}
+
+body{
+  background-color:lightgoldenrodyellow;
+}
