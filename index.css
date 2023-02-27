@@ -3,21 +3,58 @@ h1{
   margin: 20px;
   border: 5px solid purple;
   border-radius: 15px;
+  padding: 2px;
 }
 
 h2{
   background-color: blueviolet;
   border: 5px solid purple;
   border-radius: 15px;
+  padding: 5px;
 }
 
 p{
   background-color:skyblue;
   border: 5px solid blue;
   border-radius: 15px;
-
+  display: block;
+  padding: 5px;
 }
 
 body{
   background-color:lightgoldenrodyellow;
+}
+
+div{
+  background-color:bisque;
+  display: block;
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid burlywood;
+  border-radius: 15px;
+}
+
+img{
+  width: 80%;
+  border: 2px solid black;
+  border-radius: 15%;
+}
+
+a{
+  background-color:skyblue;
+  border: 5px solid blue;
+  border-radius: 15px;
+  padding: 5px;
+}
+
+a:hover{
+  background-color: blue;
+  border: 5px solid skyblue;
+}
+
+ul{
+  background-color: skyblue;
+  border: 5px solid blue;
+  border-radius: 15px;
+  padding: 5px;
 }
