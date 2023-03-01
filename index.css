@@ -1,16 +1,24 @@
 h1{
   background-color:blueviolet;
+  display: block;
   margin: 20px;
   border: 5px solid purple;
   border-radius: 15px;
-  padding: 2px;
+  padding: 10px;
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2{
   background-color: blueviolet;
   border: 5px solid purple;
   border-radius: 15px;
-  padding: 5px;
+  padding: 10px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p{
@@ -18,7 +26,11 @@ p{
   border: 5px solid blue;
   border-radius: 15px;
   display: block;
-  padding: 5px;
+  padding: 10px;
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body{
@@ -29,15 +41,19 @@ div{
   background-color:bisque;
   display: block;
   margin: 20px;
-  padding: 20px;
+  padding: 2px;
   border: 5px solid burlywood;
   border-radius: 15px;
+
 }
 
 img{
-  width: 80%;
+  width: 60%;
+  display: block;
   border: 2px solid black;
   border-radius: 15%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a{
@@ -45,11 +61,17 @@ a{
   border: 5px solid blue;
   border-radius: 15px;
   padding: 5px;
+  display: block;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 a:hover{
   background-color: blue;
   border: 5px solid skyblue;
+  color: white;
 }
 
 ul{
@@ -57,4 +79,8 @@ ul{
   border: 5px solid blue;
   border-radius: 15px;
   padding: 5px;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
